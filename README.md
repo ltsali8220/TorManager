@@ -93,6 +93,6 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 ## Support
 
-For support or questions regarding the usage of Tor Manager, feel free to open an issue on the GitHub repository, or contact me directly at [your-email@example.com].
+For support or questions regarding the usage of Tor Manager, feel free to open an issue on the GitHub repository, or contact me directly at [salivelu1012@gmail.com].
 
 ---
